@@ -1,0 +1,13 @@
+1667458595890	Move compilation unit
+1667547696243	Rename type 'RoleRepository'
+1667573935136	Delete element
+1667573985875	Rename package 'com.codewithdurgesh.blog'
+1667574007918	Rename package 'com.codewithdurgesh.blog.config'
+1667574024193	Rename package 'com.codewithdurgesh.blog.controllers'
+1667574039010	Rename package 'com.codewithdurgesh.blog.entities'
+1667574068950	Rename package 'com.codewithdurgesh.blog.exceptions'
+1667574092099	Rename package 'com.codewithsurajblog'
+1667574109003	Rename package 'com.codewithdurgesh.blog.services'
+1667574119201	Rename package 'com.codewithdurgesh.blog.security'
+1667574130469	Rename package 'com.codewithdurgesh.blog.repositories'
+1667574141776	Rename package 'com.codewithdurgesh.blog.payloads'
